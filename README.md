@@ -3,7 +3,7 @@
 <br />
 
 <ul>
-  <li><em>Mechannical Enginner at <a href="http://https://www.unifacs.br/">Unifacs</a></em></li>
+  <li><em>Mechanical Enginner at <a href="http://https://www.unifacs.br/">Unifacs</a></em></li>
   <li><em>Web Development Student at <a href="https://www.betrybe.com/">Trybe</a></em></li>
 </ul>
 
