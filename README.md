@@ -1,9 +1,9 @@
+### Hi there 👋
+
 <img src="https://raw.githubusercontent.com/gist/yvasconcellos/e3264a8d31e2f3d9c2292e5ed62887c5/raw/48fba3d4bfc0a2681aeccf7c5fae7f58607e5613/githubheader.svg"
 alt='header Profile' height=”50"
 style=”margin: 10px”
 />
-
-### Hi there 👋
 
 <!--
 **yvasconcellos/yvasconcellos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
