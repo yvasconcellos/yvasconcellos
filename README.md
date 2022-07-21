@@ -4,6 +4,7 @@
 alt='header Profile' height=”50"
 style=”margin: 10px”
 />
+<img style=”margin: 10px” src=”https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt=”React” height=”50" />
 
 <!--
 **yvasconcellos/yvasconcellos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
