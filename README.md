@@ -8,9 +8,9 @@
 </ul>
 
 <div> 
-  <a href="https://www.linkedin.com/in/yvasconcellos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/yvasconcellos/"><img src="https://img.shields.io/badge/-LinkedIn-0ba2be?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </a>
-  <a href="https://yvasconcellos.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Github&logoColor=ffffff&link=yvasconcellos.github.io"></a> 
+  <a href="https://yvasconcellos.github.io/"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Github&logoColor=ffffff&link=yvasconcellos.github.io"></a> 
 </div>
 
 <br />
