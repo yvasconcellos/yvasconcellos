@@ -20,7 +20,7 @@ About me...
 const yuri = {
   code: [Javascript, HTML, CSS],
   tools: [React, ContextAPI, Redux, Node, Jest],
-  frameworks: [Tailwind, Bootstrap, Material UI],
+  frameworks: [Tailwind, Bootstrap],
   challenge: "I'm in career transition"
 }
 ```
