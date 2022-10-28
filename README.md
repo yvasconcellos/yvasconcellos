@@ -1,10 +1,10 @@
 <img src="https://raw.githubusercontent.com/gist/yvasconcellos/e3264a8d31e2f3d9c2292e5ed62887c5/raw/48fba3d4bfc0a2681aeccf7c5fae7f58607e5613/githubheader.svg"/>
-<div align="center">I'm Yuri Vasconcellos, a full-time front-end developer 👨‍💻 studying web development since 2021 🚀</div> 
+<div align="center">Oi, eu sou o Yuri, Desenvolvedor Front-end em tempo integral 👨‍💻 Estudando Desenvolvimento Web e Engenharia de Dados 🚀</div> 
 <br />
 
 <ul>
-  <li><em>Mechanical Enginner at <a href="http://https://www.unifacs.br/">Unifacs</a></em></li>
-  <li><em>Web Development Student at <a href="https://www.betrybe.com/">Trybe</a></em></li>
+  <li><em>Engenheiro Mecânico na <a href="http://https://www.unifacs.br/">Unifacs</a></em></li>
+  <li><em>Estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a></em></li>
 </ul>
 
 <div> 
@@ -14,14 +14,14 @@
 </div>
 
 <br />
-About me...  
+Sobre mim...  
 
 ```javascript
 const yuri = {
-  code: [Javascript, HTML, CSS],
-  tools: [React, ContextAPI, Redux, Node, Jest],
-  frameworks: [Tailwind, Bootstrap],
-  challenge: "I'm in career transition"
+  code: [Javascript, HTML, CSS, Typescript, SQL],
+  tools: [React, ContextAPI, Redux, Node, Jest, Mocha, Chai, Sinon, Express, MySQL],
+  frameworks: [Tailwind, Bootstrap, Material UI],
+  challenge: "Estou em transição de carreira"
 }
 ```
 
