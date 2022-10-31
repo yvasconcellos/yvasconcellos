@@ -19,7 +19,7 @@ Sobre mim...
 ```javascript
 const yuri = {
   code: [Javascript, HTML, CSS, Typescript, SQL],
-  tools: [React, ContextAPI, Redux, Node, Jest, Mocha, Chai, Sinon, Express, MySQL],
+  tools: [React, ContextAPI, Redux, Node, Express, MySQL, Docker, Jest, Mocha, Chai, Sinon],
   frameworks: [Tailwind, Bootstrap, Material UI],
   challenge: "Estou em transição de carreira"
 }
